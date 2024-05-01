@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Radhakrishnan-R/faq-accordion-fm/blob/main/index.js
+- Live Site URL: https://radhakrishnan-r.github.io/faq-accordion-fm/
 
 ## My process
 
@@ -47,9 +47,9 @@ Users should be able to:
 
 ### What I learned
 
-This project tested my JS skills, I learned on how to swap image between clicks.
+This project tested my JS skills, and I learned how to swap images between clicks.
 
-```js
+``` js
 $(".question-holder img").on("click", function() {
 
     var answerOpener = $(this).attr("class");
