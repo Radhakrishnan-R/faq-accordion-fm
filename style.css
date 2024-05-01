@@ -58,7 +58,9 @@ h1{
     margin-bottom: 16px;
 }
 
-
+.question-holder > img:hover{
+    cursor: pointer;
+}
 
 .answer-holder{
     font-size: 14px;
